@@ -5,7 +5,7 @@
 
 This repo provides the codes and dataset link for [our INTERSPEECH 2023 paper](https://arxiv.org/abs/2306.02596):
 
-    @inproceedings{xphonebert,
+    @inproceedings{is2023resync_cs,
     title     = {{A Novel Interpretable and Generalizable Re-Synchronization Model for Cued Speech Based on a Multi-Cuer Corpus}},
     author    = {Lufei Gao and Shan Huang and Li Liu},
     booktitle = {Proceedings of the 24th Annual Conference of the International Speech Communication Association (INTERSPEECH)},
